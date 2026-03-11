@@ -1,13 +1,1 @@
-
-`| ML Applications`
-
-[`- Tomatos Classification:`](https://ripe-or-unripe-tomatos-classification.streamlit.app/) 
-> - **Description:** This is a binary classification app. It will take an image of tomatos and determines wherether the tomatos is ripe or unripe.
-> - **Library:** fast.ai.
-
-
-`| J4F Applications`
-
-[`- Automation for Data Preparation:`](https://huggingface.co/spaces/andtr-2021/automation-for-data-preparation)
-> - **Description:** This app will automate data preparation to make it easier to handled by different ML librarie such as Pytorch. 
-> - **Library:** sklearn and opencv.
+Hello! My name is An—a software engineer with 1.5 YOE building data-driven systems integrating data science and AI applications to drive impactful business solutions. I have a profound fascination with how these AI applications will reshape all areas of life. Beyond programming, I love to read and write; I primarily explore behavioral psychology books and share my thoughts on my blog.
